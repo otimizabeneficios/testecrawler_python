@@ -4,7 +4,7 @@
 # Instruções
 
     Esse teste é público. Todos os interessados que fizerem pull request receberão um feedback da equipe
-    Theòs Sistemas
+    Otimiza Benefícios
     
     1. Faça um fork deste repositório;
     2. Crie uma branch com o seu nome.
@@ -26,8 +26,8 @@ Um destes ou mais.
 Você pode salvar em planilhas(csv ou xls) e colocar junto com seu curriculo.
 
 ### Diferencial:
-	  * Salvar dados via banco de dados Postgree
-    * Implementar front-end para consumir a API com framework Javascript.
+    * Salvar dados via banco de dados Postgree
+    * Implementar front-end para consumir a API com algum framework Javascript.
 
     obs: Teste terá como avaliação principal os requisitos solicitados para o backend,  porém o frontend 
     poderá ser critério de desempate.
